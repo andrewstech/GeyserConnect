@@ -25,6 +25,7 @@ welcome-file: welcome.txt
 
 # Config for the Geyser listener
 geyser:
+  auth-type: auto
   # If password authentication should be allowed in online mode.
   allow-password-authentication: false
 
